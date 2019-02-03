@@ -1,0 +1,33 @@
+h2 {
+    color: rgb(12, 12, 12);
+    text-align: left;
+}
+.form-control {
+    width: 50%;
+    padding: 5px 10px;
+    margin: 5px 0;
+	display: inline-block;
+    border: 1.5px solid #ccc;
+    box-sizing: border-box;}
+
+.btn {
+    padding: 10px 35px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    margin: 5px 240px;
+    position: relative;
+    cursor: pointer;
+}
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+h4 {
+    text-align: left;
+    color: #4CAF50;
+}
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
